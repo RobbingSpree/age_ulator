@@ -1,11 +1,8 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "arrow_up_day",
-  "spriteId": {
-    "name": "arrow_up_spr",
-    "path": "sprites/arrow_up_spr/arrow_up_spr.yy",
-  },
+  "name": "heading_location",
+  "spriteId": null,
   "solid": false,
   "visible": true,
   "managed": true,
@@ -24,13 +21,11 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":false,"eventNum":7,"eventType":6,"collisionObjectId":null,},
-  ],
+  "eventList": [],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "arrows",
-    "path": "folders/Objects/arrows.yy",
+    "name": "room location objects",
+    "path": "folders/Objects/room location objects.yy",
   },
 }
