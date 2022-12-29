@@ -1,7 +1,7 @@
 {
   "resourceType": "GMScript",
   "resourceVersion": "1.0",
-  "name": "draw_sprite_as_text",
+  "name": "load_and_save",
   "isDnD": false,
   "isCompatibility": false,
   "parent": {

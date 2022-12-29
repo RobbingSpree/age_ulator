@@ -30,7 +30,7 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "arrows",
-    "path": "folders/Objects/arrows.yy",
+    "name": "calc_buttons",
+    "path": "folders/Objects/calc_buttons.yy",
   },
 }
