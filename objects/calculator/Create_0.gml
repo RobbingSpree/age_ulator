@@ -1,3 +1,4 @@
+
 birth_month = 7;
 birth_day = 27;
 birth_year = 2022;
@@ -36,3 +37,12 @@ enum rando {
 	
 }
 
+
+ini_open("save_data.ini");
+if ini_key_exists("data","save_exists")
+	load_save_from_backup();
+else
+	make_backup();
+	
+ini_close();
+alarm[0] = room_speed*60;

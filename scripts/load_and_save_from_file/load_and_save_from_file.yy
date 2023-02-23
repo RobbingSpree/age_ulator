@@ -1,7 +1,7 @@
 {
   "resourceType": "GMScript",
   "resourceVersion": "1.0",
-  "name": "load_and_save",
+  "name": "load_and_save_from_file",
   "isCompatibility": false,
   "isDnD": false,
   "parent": {
